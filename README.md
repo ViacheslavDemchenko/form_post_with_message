@@ -1,1 +1,1 @@
-Script for form post
+Script for form post with image return
